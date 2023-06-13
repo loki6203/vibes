@@ -1,2 +1,2 @@
 # vibes
-integrated to ci-cd
+integrated to Ci-Cd
