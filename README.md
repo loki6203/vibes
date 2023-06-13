@@ -1,2 +1,2 @@
 # vibes
-integrated to Ci-Cd
+integrated to pipeline
