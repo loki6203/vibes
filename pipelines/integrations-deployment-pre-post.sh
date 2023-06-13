@@ -19,7 +19,7 @@ m_prod_deployment() {
   #/usr/local/bin/aws s3 cp s3://iidm-env-private/prodStore.env $STAGE_SRC_DIR/.env
 
 }
-if [ "$DEPLOYMENT_GROUP_NAME" == "stage-group" ]; then
+if [ "$DEPLOYMENT_GROUP_NAME" == "dev-group" ]; then
     echo *************************************Running Deployment***********************************
     m_stage_deployment
 fi
