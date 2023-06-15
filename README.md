@@ -1,1 +1,3 @@
 # vibes
+
+auto scallig
